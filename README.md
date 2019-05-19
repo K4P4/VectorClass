@@ -116,6 +116,7 @@ template <typename T>
 Atminties perskirstymai:
 
 | Elementų kiekis | std::vector | Vector class |
+| --------------  | ----------- | ------------ |
 | 100000000       | 28 kartai   | 25 kartai    |
 
 # 4 Užduotis
@@ -123,4 +124,5 @@ Atminties perskirstymai:
 Trukmės su partition:
 
 | Elementų kiekis | std::vector | Vector class |
+| --------------  | ----------- | ------------ |
 | 100000          | 0.831s      | 0.904s       |
